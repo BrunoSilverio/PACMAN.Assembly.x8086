@@ -1,4 +1,4 @@
-# PACMAN em  Assembly x86 :computer:
+# :video_game: PACMAN em  Assembly x86 :computer:
 
 :warning: ARQUIVOS TASM E TLINK DEVEM ESTAR NA MESMA PASTA DO PROJETO
 
